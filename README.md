@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Offline catalog of OpenRouter decision models (Jev, GPT-6 Luna Decisions, and others), kept separate from text and gateway catalogs.
-- An application needs the versioned decision-models definitions or bundled content instead of maintaining its own copy.
+- List decision-oriented models separately from general text-generation catalogs.
+- Retrieve a decision-model record for a dispatcher configuration screen.
 
 ## Links
 
