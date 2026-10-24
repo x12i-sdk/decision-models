@@ -1,0 +1,22 @@
+{
+  "name": "decision-models-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for decision-models: look up models in the bundled offline catalog.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "decision-models": "0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/decision-models.git"
+  },
+  "homepage": "https://www.npmjs.com/package/decision-models"
+}
